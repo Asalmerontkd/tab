@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">tab</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- notificaciones -->
+    <string name="titulo_notificacion">Notificacion Title</string>
+    <string name="mensaje_notificacion">Notificacion Mensaje</string>
+    <string name="swich_notificacion_on">High</string>
+    <string name="switch_notificacion_off">Low</string>
+    <string name="btn_notifications_">Enviar notificacion</string>
+
+
+
+</resources>
